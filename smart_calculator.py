@@ -1,5 +1,5 @@
-a = int(input("Enter the first number: "))
-b = int(input("Enter the second number: "))
+a = float(input("Enter the first number: "))
+b = float(input("Enter the second number: "))
 operators = input("Enter an operator like '+','-','/','*'")
 if operators == '+':
     print(a+b)
